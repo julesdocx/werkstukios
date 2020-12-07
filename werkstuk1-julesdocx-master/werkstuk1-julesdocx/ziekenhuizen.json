@@ -1,0 +1,34 @@
+[
+    {
+        "naam": "UZ Brussel",
+        "foto": " ",
+        "straat": "Avenue du Laerbeek",
+        "huisnummer": "101",
+        "postcode": "1090",
+        "gemeente": "Jette",
+        "gps-coordinaten": "50.8878N 4.3086E",
+        "telefoonnummer": "024774111"
+    },
+    {
+        "naam": "Sint-Jan Kliniek",
+        "foto": " ",
+        "straat": "Boulevard du Jardin Botanique",
+        "huisnummer": "32",
+        "gemeente": "Brussel",
+        "postcode": "1000",
+        "gps-coordinaten": "50.8544N 4.3604E",
+        "telefoonnummer": "022219111"
+    },
+    {
+        "naam": "Ziekenhuis Etterbeek-Elsene",
+        "foto": " ",
+        "straat": "Rue Jean Paquot",
+        "huisnummer": "63",
+        "postcode": "1050",
+        "gemeente": "Elsene",
+        "gps-coordinaten": "50.8252N 4.3788E",
+        "telefoonnummer": "026414111"
+
+    }
+
+]
